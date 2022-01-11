@@ -37,7 +37,7 @@ a {
 .container {
   max-width: 1300px;
   margin: auto;
-  padding: 0 25px 0 25px;
+  padding: 0 25px;
 }
 .row {
   display: flex;
@@ -172,7 +172,7 @@ small {
   color: #555;
 }
 .brands {
-  margin: 50px auto;
+  margin-top: 50px;
 }
 .col-5 {
   width: 160px;
